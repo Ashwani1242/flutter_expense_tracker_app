@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 class MainScreen extends StatelessWidget {
   const MainScreen({super.key});
@@ -73,7 +72,7 @@ class MainScreen extends StatelessWidget {
                   ),
                   onPressed: () {},
                   icon: Icon(
-                    CupertinoIcons.settings,
+                    Icons.settings,
                     color: Theme.of(context).colorScheme.outline,
                   ),
                 ),
