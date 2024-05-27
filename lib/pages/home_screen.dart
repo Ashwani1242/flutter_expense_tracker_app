@@ -1,5 +1,3 @@
-import 'dart:ui';
-
 import 'package:expense_tracker_app/pages/main_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
